@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+    <string name="share_now">Share Now</string>
+    <string name="title">The World Has A New Most Beautiful Girl In The World</string>
+    <string name="name">name</string>
+    <string name="age">age</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="share_product_via">share product via</string>
+    <string name="share">Share</string>
+</resources>
